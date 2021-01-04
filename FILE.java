@@ -1,3 +1,7 @@
+/*
+  [EN]: Create and write on a text file in Java
+  [IT]: Creare e scrivere su un file di testo in Java
+*/
 // 1-st Java program with file
 
 import java.io.File;        // Java file library
