@@ -1,6 +1,6 @@
 /*
   [EN]: reading a text file in Java
-  [IT]: lettura un file di testo in Java
+  [IT]: lettura un file di testo in JAVA
 */
 
 import java.io.BufferedReader;    // libreria per leggere i file
